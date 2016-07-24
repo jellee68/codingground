@@ -4,9 +4,14 @@ using namespace std;
 
 int main()
 {
-   cout << "Hello World" << endl; 
+	
+	char words[] = {"Some words"} ; 
+	const char* charArray[] = {words};
+	
    
-   print("Fish Face");
-   return 0;
+    cout << charArray << endl ;
+   
+	print("Fish Face");
+	return 0 ;
 }
 
