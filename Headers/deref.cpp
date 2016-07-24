@@ -2,7 +2,6 @@
 // C++ Programming in easy steps 3ed. [6:100]
 //=============================================
 
-//Just added this to make it look different.
 
 #include <iostream>
 using namespace std ;
