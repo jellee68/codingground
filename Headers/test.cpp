@@ -2,16 +2,14 @@
 #include "module.h"
 using namespace std;
 
+
 int main()
 {
+	const char* word="Some longer String\n" ;
+	cout << myGoodFunction(word);
+	print("FishFace");
 	
-	char words[] = {"Some words"} ; 
-	const char* charArray[] = {words};
 	
-   
-    cout << charArray << endl ;
-   
-	print("Fish Face");
 	return 0 ;
 }
 
