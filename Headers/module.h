@@ -24,5 +24,8 @@ string myGoodFunction(const char* charArray)
 				}	
 			}
     cout << length << endl;
+    
+    cout << x << endl ;
+    //cout << charArray[2] << endl ;
     return string(charArray);
 	}

@@ -5,7 +5,7 @@ using namespace std;
 
 int main()
 {
-	const char* word="Some longer String\n" ;
+	char word[]={"Some longer String\n"} ;
 	cout << myGoodFunction(word);
 	print("FishFace");
 	
