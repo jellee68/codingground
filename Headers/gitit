@@ -1,0 +1,10 @@
+#Add file:
+git add *
+
+#Commit file:
+git commit -m "Updated"
+#send to git:
+git push
+
+#*user name : jellee68
+#*password  : g*--*#*2
