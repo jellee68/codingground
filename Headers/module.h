@@ -40,7 +40,6 @@ string shiftLeft(const char* charArray)
 						break ;	
 					}	
 			}
-    cout << length << endl;
-    
+        
     return string (measurable);
 	}

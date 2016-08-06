@@ -21,6 +21,8 @@ int main()
 	cout << "Fido is " << fido.getAge() << " years old" << endl ;
 	cout << "Fido weighs " << fido.getWeight() << " pounds" << endl ;
 
+	const char* words = "Some words to display" ;
+	
 	
 	
 	return 0 ;
